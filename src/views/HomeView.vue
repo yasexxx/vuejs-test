@@ -8,6 +8,8 @@ import Layout from "../components/Layout.vue";
     <div class="px-4 container mx-auto">
       <Layout>
         <div>Hello</div>
+        <div>Hello</div>
+        <div>Hello</div>
       </Layout>
     </div>
   </div>
